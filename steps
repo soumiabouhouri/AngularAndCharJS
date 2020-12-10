@@ -1,0 +1,6 @@
+ 1 npm install chart.js --save
+ 2 npm install bootstrap
+ 3 add chartJs in src script index node_modules/chart.js/src/chart.js
+ 4 npm i ng2-charts // to use angular chart directive
+ 5  add it to the imports and modules to the library import { ChartsModule } from 'ng2-charts'
+
